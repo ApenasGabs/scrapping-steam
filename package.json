@@ -1,0 +1,11 @@
+{
+  "name": "scrapping-steam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ApenasGabs/scrapping-steam.git",
+  "author": "Gabriel Rodrigues <gabers357@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^24.2.1"
+  }
+}
